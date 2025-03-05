@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Background color for better visibility -->
+  <rect width="64" height="64" fill="none" />
+  
+  <!-- Book Cover - Main Body -->
+  <rect x="12" y="8" width="40" height="48" fill="#ec407a" />
+  
+  <!-- Book spine - darker shade -->
+  <rect x="12" y="8" width="8" height="48" fill="#ad1457" />
+  
+  <!-- Book Pages - lighter color -->
+  <rect x="20" y="12" width="32" height="40" fill="#fce4ec" />
+  
+  <!-- Pixelated page lines -->
+  <rect x="24" y="20" width="24" height="4" fill="#f8bbd0" />
+  <rect x="24" y="28" width="24" height="4" fill="#f8bbd0" />
+  <rect x="24" y="36" width="24" height="4" fill="#f8bbd0" />
+  <rect x="24" y="44" width="16" height="4" fill="#f8bbd0" />
+  
+  <!-- Pixelated book binding details -->
+  <rect x="12" y="12" width="8" height="4" fill="#880e4f" />
+  <rect x="12" y="24" width="8" height="4" fill="#880e4f" />
+  <rect x="12" y="36" width="8" height="4" fill="#880e4f" />
+  <rect x="12" y="48" width="8" height="4" fill="#880e4f" />
+</svg> 
